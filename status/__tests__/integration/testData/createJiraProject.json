@@ -1,0 +1,10 @@
+{
+    "httpMethod": "POST",
+    "scope": "createJiraProject",
+    "process": "5f18a46a5f3dca0008c00406",
+    "pddVersion": "pdd-1.0",
+    "company": "0",
+    "headers": {
+        "tenant": "45807776-edaa-4555-8492-50ba79d42842"
+    }
+}
